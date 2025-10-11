@@ -248,5 +248,8 @@ Developed by: Alex Marco
 🐙 GitHub: [https://github.com/Alex-Marco18]
 
 
-“Real-world machine learning is not about building models — it’s about building systems that work reliably in production.” 
+“Real-world machine learning is not about building models — it’s about building systems that work reliably in production.
+And i would say i guess this was closed to that”
+
+If you want Youtube tutorial on how i did this send me a message on my LinkedIn Account.
 
