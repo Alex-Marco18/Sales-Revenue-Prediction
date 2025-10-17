@@ -154,30 +154,6 @@ Example JSON Output:
   "Predicted_Sales": 5345.76
 }
 
-## 🧩 Project Structure
-
-📁 Sales-Revenue-Projects
-│
-├── app/
-│   ├── main.py              # FastAPI entry point
-│   ├── schema.py            # Pydantic models for request/response
-│   ├── utils.py             # Helper utilities for prediction and preprocessing
-│
-├── models/
-│   ├── pipeline_final.joblib    # Trained ML pipeline
-│   └── metadata.json            # Model details and configuration
-│
-├── training/
-│   ├── feature_engineering.py   # Feature creation and transformation logic
-│   ├── train_model.py           # Training and evaluation script
-│
-├── data/
-│   └── rossmann_store_sales.csv # Raw dataset (if included)
-│
-├── requirements.txt
-└── README.md
-
-
 
 ## 🧱 Challenges, Constraints & Solutions
 
